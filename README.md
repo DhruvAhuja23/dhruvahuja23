@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvahuja23&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvahuja23" /> </p>
 
-- 🌱 I’m currently learning **Flutter-Dart**
-
 - 💬 Ask me about **Python, Deep Learning, Transfer Learning**
 
 - 📫 How to reach me **dhruvahuja2330@gmail.com**
